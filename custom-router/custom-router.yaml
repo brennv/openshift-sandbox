@@ -15,7 +15,7 @@ objects:
     source:
       contextDir: custom-router
       git:
-        uri: https://github.com/nekop/openshift-sandbox
+        uri: https://github.com/brennv/openshift-sandbox
       type: Git
     strategy:
       dockerStrategy:
