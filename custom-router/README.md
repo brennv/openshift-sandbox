@@ -2,7 +2,7 @@
 
 ```
 oc project default
-oc new-app -f https://raw.githubusercontent.com/nekop/openshift-sandbox/master/custom-router/custom-router.yaml
+oc new-app -f https://raw.githubusercontent.com/brennv/openshift-sandbox/master/custom-router/custom-router.yaml
 oc edit dc router
 ```
 
